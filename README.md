@@ -36,3 +36,4 @@ The RNN Stock Price Prediction project leverages the power of Recurrent Neural N
 
 The model is a Recurrent Neural Network (RNN) implemented using TensorFlow/Keras. It is designed to predict the next day's stock price based on previous historical data.
 
+![image](https://github.com/user-attachments/assets/a3a92616-f0b1-425f-a2d2-a41ced8a2cd3)
