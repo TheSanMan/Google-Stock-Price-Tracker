@@ -19,12 +19,7 @@ The RNN Stock Price Prediction project leverages the power of Recurrent Neural N
 
 ## Usage
 
-1. **Running the Python Script**:
-    ```bash
-    python rnn.py
-    ```
-
-2. **Using the Jupyter Notebook**:
+**Using the Jupyter Notebook**:
     Open the `rnn.ipynb` file in Jupyter Notebook or JupyterLab to run the code cells interactively.
 
 ## Data
